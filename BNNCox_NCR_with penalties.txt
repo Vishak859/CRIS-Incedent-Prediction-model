@@ -1,0 +1,1297 @@
+Total combinations = 144
+
+================================================================================
+Run 1/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.01, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.5335 | KL:9324.9082 | Mono:0.0005 | Smooth:0.0007 | Pinball:8.6553 | Total:11.0595
+
+Early stopping at epoch 98 (best=10.6119)
+Training done. Best loss = 10.6119
+Validation C-index = 0.7214
+
+================================================================================
+Run 2/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.01, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.8452 | KL:9322.2490 | Mono:0.0004 | Smooth:0.0006 | Pinball:8.6486 | Total:11.3708
+
+Early stopping at epoch 92 (best=10.9097)
+Training done. Best loss = 10.9097
+Validation C-index = 0.7031
+
+================================================================================
+Run 3/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.01, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.6789 | KL:9318.5723 | Mono:0.0006 | Smooth:0.0009 | Pinball:8.5775 | Total:11.2009
+
+Early stopping at epoch 98 (best=10.7108)
+Training done. Best loss = 10.7108
+Validation C-index = 0.7166
+
+================================================================================
+Run 4/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.01, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.5347 | KL:9321.6758 | Mono:0.0005 | Smooth:0.0007 | Pinball:8.7430 | Total:11.5022
+
+Early stopping at epoch 96 (best=10.6325)
+Training done. Best loss = 10.6325
+Validation C-index = 0.5357
+
+================================================================================
+Run 5/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.01, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.6159 | KL:9318.9082 | Mono:0.0004 | Smooth:0.0005 | Pinball:8.5289 | Total:11.5620
+
+Early stopping at epoch 97 (best=10.6855)
+Training done. Best loss = 10.6855
+Validation C-index = 0.4031
+
+================================================================================
+Run 6/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.01, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.3475 | KL:9319.5547 | Mono:0.0005 | Smooth:0.0007 | Pinball:8.7474 | Total:11.3154
+
+Early stopping at epoch 89 (best=10.4147)
+Training done. Best loss = 10.4147
+Validation C-index = 0.5217
+
+================================================================================
+Run 7/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.01, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.2935 | KL:9322.8779 | Mono:0.0004 | Smooth:0.0006 | Pinball:8.6066 | Total:10.8171
+
+Early stopping at epoch 99 (best=10.3752)
+Training done. Best loss = 10.3752
+Validation C-index = 0.5859
+
+================================================================================
+Run 8/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.01, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.5385 | KL:9320.8516 | Mono:0.0005 | Smooth:0.0007 | Pinball:8.5585 | Total:11.0596
+
+Early stopping at epoch 99 (best=10.5715)
+Training done. Best loss = 10.5715
+Validation C-index = 0.5237
+
+================================================================================
+Run 9/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.01, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 20}
+Epoch 050 | Cox(focal):9.9586 | KL:9324.1826 | Mono:0.0005 | Smooth:0.0007 | Pinball:8.6185 | Total:10.4828
+
+Early stopping at epoch 94 (best=9.9812)
+Training done. Best loss = 9.9812
+Validation C-index = 0.7685
+
+================================================================================
+Run 10/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.01, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.1727 | KL:9323.2256 | Mono:0.0004 | Smooth:0.0006 | Pinball:8.5364 | Total:11.1195
+
+Early stopping at epoch 90 (best=10.2472)
+Training done. Best loss = 10.2472
+Validation C-index = 0.5202
+
+================================================================================
+Run 11/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.01, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.1590 | KL:9321.7988 | Mono:0.0005 | Smooth:0.0007 | Pinball:8.5745 | Total:11.1097
+
+Early stopping at epoch 95 (best=10.2093)
+Training done. Best loss = 10.2093
+Validation C-index = 0.5835
+
+================================================================================
+Run 12/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.01, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.3026 | KL:9324.7520 | Mono:0.0005 | Smooth:0.0007 | Pinball:8.6430 | Total:11.2601
+
+Early stopping at epoch 98 (best=10.4069)
+Training done. Best loss = 10.4069
+Validation C-index = 0.5760
+
+================================================================================
+Run 13/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.03, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.0963 | KL:9323.5723 | Mono:0.0005 | Smooth:0.0007 | Pinball:8.7720 | Total:10.6282
+
+Early stopping at epoch 97 (best=10.1492)
+Training done. Best loss = 10.1492
+Validation C-index = 0.6686
+
+================================================================================
+Run 14/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.03, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 15}
+Epoch 050 | Cox(focal):11.0029 | KL:9316.1094 | Mono:0.0005 | Smooth:0.0007 | Pinball:8.6401 | Total:11.5281
+
+Early stopping at epoch 60 (best=10.8627)
+Training done. Best loss = 10.8627
+Validation C-index = 0.3757
+
+================================================================================
+Run 15/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.03, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 20}
+Epoch 050 | Cox(focal):11.0783 | KL:9317.3506 | Mono:0.0006 | Smooth:0.0008 | Pinball:8.7937 | Total:11.6112
+
+Early stopping at epoch 96 (best=11.1734)
+Training done. Best loss = 11.1734
+Validation C-index = 0.4822
+
+================================================================================
+Run 16/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.03, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.0762 | KL:9321.3350 | Mono:0.0004 | Smooth:0.0006 | Pinball:8.5089 | Total:11.0203
+
+Early stopping at epoch 86 (best=10.1016)
+Training done. Best loss = 10.1016
+Validation C-index = 0.6173
+
+================================================================================
+Run 17/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.03, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 15}
+Epoch 050 | Cox(focal):9.8454 | KL:9322.9785 | Mono:0.0005 | Smooth:0.0007 | Pinball:8.6292 | Total:10.8015
+
+Early stopping at epoch 79 (best=9.8634)
+Training done. Best loss = 9.8634
+Validation C-index = 0.7115
+
+================================================================================
+Run 18/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.03, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.3356 | KL:9325.4814 | Mono:0.0004 | Smooth:0.0006 | Pinball:8.7741 | Total:11.3063
+
+Early stopping at epoch 88 (best=10.3634)
+Training done. Best loss = 10.3634
+Validation C-index = 0.5811
+
+================================================================================
+Run 19/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.03, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.8252 | KL:9321.1631 | Mono:0.0005 | Smooth:0.0007 | Pinball:8.4444 | Total:11.3407
+
+Early stopping at epoch 87 (best=10.8843)
+Training done. Best loss = 10.8843
+Validation C-index = 0.6266
+
+================================================================================
+Run 20/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.03, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 15}
+Epoch 050 | Cox(focal):9.8209 | KL:9320.0957 | Mono:0.0004 | Smooth:0.0006 | Pinball:8.6791 | Total:10.3481
+
+Early stopping at epoch 98 (best=9.9018)
+Training done. Best loss = 9.9018
+Validation C-index = 0.6963
+
+================================================================================
+Run 21/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.03, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.1774 | KL:9324.5410 | Mono:0.0004 | Smooth:0.0006 | Pinball:8.7239 | Total:10.7068
+
+Early stopping at epoch 66 (best=10.2574)
+Training done. Best loss = 10.2574
+Validation C-index = 0.5396
+
+================================================================================
+Run 22/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.03, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 10}
+Epoch 050 | Cox(focal):9.8542 | KL:9321.1973 | Mono:0.0005 | Smooth:0.0007 | Pinball:8.5637 | Total:10.8038
+
+Early stopping at epoch 98 (best=9.9393)
+Training done. Best loss = 9.9393
+Validation C-index = 0.7538
+
+================================================================================
+Run 23/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.03, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.7213 | KL:9325.1396 | Mono:0.0005 | Smooth:0.0007 | Pinball:8.4606 | Total:11.6607
+
+Early stopping at epoch 81 (best=10.7154)
+Training done. Best loss = 10.7154
+Validation C-index = 0.5325
+
+================================================================================
+Run 24/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.03, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.2451 | KL:9319.5273 | Mono:0.0006 | Smooth:0.0008 | Pinball:8.5950 | Total:11.1978
+
+Early stopping at epoch 73 (best=10.2025)
+Training done. Best loss = 10.2025
+Validation C-index = 0.6753
+
+================================================================================
+Run 25/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.05, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.6509 | KL:9318.2334 | Mono:0.0005 | Smooth:0.0007 | Pinball:8.4707 | Total:11.1676
+
+Early stopping at epoch 98 (best=10.6087)
+Training done. Best loss = 10.6087
+Validation C-index = 0.5042
+
+================================================================================
+Run 26/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.05, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.3810 | KL:9316.7266 | Mono:0.0004 | Smooth:0.0005 | Pinball:8.6839 | Total:10.9083
+
+Early stopping at epoch 97 (best=10.4788)
+Training done. Best loss = 10.4788
+Validation C-index = 0.5104
+
+================================================================================
+Run 27/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.05, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.0074 | KL:9323.6162 | Mono:0.0005 | Smooth:0.0007 | Pinball:8.6195 | Total:10.5317
+
+Early stopping at epoch 89 (best=10.0732)
+Training done. Best loss = 10.0732
+Validation C-index = 0.7291
+
+================================================================================
+Run 28/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.05, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.9464 | KL:9314.7285 | Mono:0.0005 | Smooth:0.0007 | Pinball:8.6361 | Total:11.9032
+
+Early stopping at epoch 56 (best=10.9010)
+Training done. Best loss = 10.9010
+Validation C-index = 0.3706
+
+================================================================================
+Run 29/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.05, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.2683 | KL:9323.8740 | Mono:0.0005 | Smooth:0.0008 | Pinball:8.7438 | Total:11.2360
+
+Early stopping at epoch 96 (best=10.3287)
+Training done. Best loss = 10.3287
+Validation C-index = 0.5515
+
+================================================================================
+Run 30/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.05, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.0344 | KL:9319.3613 | Mono:0.0005 | Smooth:0.0007 | Pinball:8.5327 | Total:10.9809
+
+Early stopping at epoch 98 (best=10.1009)
+Training done. Best loss = 10.1009
+Validation C-index = 0.7301
+
+================================================================================
+Run 31/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.05, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.1541 | KL:9321.9238 | Mono:0.0005 | Smooth:0.0007 | Pinball:8.6346 | Total:10.6791
+
+Early stopping at epoch 89 (best=10.1833)
+Training done. Best loss = 10.1833
+Validation C-index = 0.6075
+
+================================================================================
+Run 32/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.05, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.0301 | KL:9319.8662 | Mono:0.0005 | Smooth:0.0006 | Pinball:8.7714 | Total:10.5619
+
+Early stopping at epoch 98 (best=10.1188)
+Training done. Best loss = 10.1188
+Validation C-index = 0.6688
+
+================================================================================
+Run 33/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.05, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.2828 | KL:9318.5410 | Mono:0.0004 | Smooth:0.0005 | Pinball:8.6685 | Total:10.8094
+
+Early stopping at epoch 96 (best=10.3809)
+Training done. Best loss = 10.3809
+Validation C-index = 0.7271
+
+================================================================================
+Run 34/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.05, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 10}
+Epoch 050 | Cox(focal):9.9878 | KL:9320.4551 | Mono:0.0005 | Smooth:0.0007 | Pinball:8.7178 | Total:10.9528
+
+Early stopping at epoch 98 (best=10.0540)
+Training done. Best loss = 10.0540
+Validation C-index = 0.6906
+
+================================================================================
+Run 35/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.05, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.7485 | KL:9322.7412 | Mono:0.0006 | Smooth:0.0009 | Pinball:8.6902 | Total:11.7108
+
+Early stopping at epoch 81 (best=10.7709)
+Training done. Best loss = 10.7709
+Validation C-index = 0.2883
+
+================================================================================
+Run 36/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.05, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.2746 | KL:9317.0664 | Mono:0.0005 | Smooth:0.0007 | Pinball:8.4666 | Total:11.2144
+
+Early stopping at epoch 86 (best=10.2746)
+Training done. Best loss = 10.2746
+Validation C-index = 0.6715
+
+================================================================================
+Run 37/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.01, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.5473 | KL:9318.7207 | Mono:0.0005 | Smooth:0.0007 | Pinball:8.7494 | Total:11.9167
+
+Early stopping at epoch 98 (best=11.4931)
+Training done. Best loss = 11.4931
+Validation C-index = 0.5482
+
+================================================================================
+Run 38/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.01, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.4677 | KL:9320.8584 | Mono:0.0006 | Smooth:0.0008 | Pinball:8.7827 | Total:11.8389
+
+Early stopping at epoch 55 (best=11.3003)
+Training done. Best loss = 11.3003
+Validation C-index = 0.5128
+
+================================================================================
+Run 39/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.01, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.1186 | KL:9325.5703 | Mono:0.0004 | Smooth:0.0006 | Pinball:8.7447 | Total:11.4884
+
+Early stopping at epoch 97 (best=11.0634)
+Training done. Best loss = 11.0634
+Validation C-index = 0.6478
+
+================================================================================
+Run 40/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.01, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 10}
+Epoch 050 | Cox(focal):11.2166 | KL:9323.4326 | Mono:0.0005 | Smooth:0.0007 | Pinball:8.7685 | Total:13.0258
+
+Early stopping at epoch 62 (best=11.9992)
+Training done. Best loss = 11.9992
+Validation C-index = 0.3994
+
+================================================================================
+Run 41/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.01, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.3138 | KL:9322.2783 | Mono:0.0005 | Smooth:0.0007 | Pinball:8.7869 | Total:12.1247
+
+Early stopping at epoch 99 (best=11.2783)
+Training done. Best loss = 11.2783
+Validation C-index = 0.6083
+
+================================================================================
+Run 42/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.01, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 20}
+Epoch 050 | Cox(focal):9.8839 | KL:9321.9180 | Mono:0.0005 | Smooth:0.0008 | Pinball:8.6692 | Total:11.6830
+
+Early stopping at epoch 84 (best=10.7404)
+Training done. Best loss = 10.7404
+Validation C-index = 0.7390
+
+================================================================================
+Run 43/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.01, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 10}
+Epoch 050 | Cox(focal):9.9562 | KL:9318.9727 | Mono:0.0004 | Smooth:0.0006 | Pinball:8.7822 | Total:11.3272
+
+Early stopping at epoch 98 (best=10.8598)
+Training done. Best loss = 10.8598
+Validation C-index = 0.6305
+
+================================================================================
+Run 44/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.01, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 15}
+Epoch 050 | Cox(focal):9.9148 | KL:9316.9160 | Mono:0.0004 | Smooth:0.0006 | Pinball:8.5974 | Total:11.2764
+
+Early stopping at epoch 96 (best=10.7774)
+Training done. Best loss = 10.7774
+Validation C-index = 0.6502
+
+================================================================================
+Run 45/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.01, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.5932 | KL:9322.5752 | Mono:0.0004 | Smooth:0.0006 | Pinball:8.7738 | Total:11.9642
+
+Early stopping at epoch 79 (best=11.4084)
+Training done. Best loss = 11.4084
+Validation C-index = 0.4742
+
+================================================================================
+Run 46/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.01, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.3325 | KL:9323.3516 | Mono:0.0006 | Smooth:0.0008 | Pinball:8.7826 | Total:12.1431
+
+Early stopping at epoch 91 (best=11.2213)
+Training done. Best loss = 11.2213
+Validation C-index = 0.5978
+
+================================================================================
+Run 47/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.01, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 15}
+Epoch 050 | Cox(focal):9.9097 | KL:9324.7236 | Mono:0.0006 | Smooth:0.0008 | Pinball:8.7118 | Total:11.7134
+
+Early stopping at epoch 79 (best=10.7991)
+Training done. Best loss = 10.7991
+Validation C-index = 0.7324
+
+================================================================================
+Run 48/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.01, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.1647 | KL:9326.4209 | Mono:0.0005 | Smooth:0.0007 | Pinball:8.5385 | Total:11.9512
+
+Early stopping at epoch 92 (best=11.1430)
+Training done. Best loss = 11.1430
+Validation C-index = 0.6621
+
+================================================================================
+Run 49/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.03, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.2133 | KL:9318.4883 | Mono:0.0004 | Smooth:0.0006 | Pinball:8.6478 | Total:11.5776
+
+Early stopping at epoch 82 (best=11.0636)
+Training done. Best loss = 11.0636
+Validation C-index = 0.7286
+
+================================================================================
+Run 50/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.03, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.1171 | KL:9319.5508 | Mono:0.0005 | Smooth:0.0007 | Pinball:8.7682 | Total:11.4875
+
+Early stopping at epoch 73 (best=10.9285)
+Training done. Best loss = 10.9285
+Validation C-index = 0.6037
+
+================================================================================
+Run 51/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.03, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.1197 | KL:9317.0352 | Mono:0.0005 | Smooth:0.0006 | Pinball:8.6627 | Total:11.4845
+
+Early stopping at epoch 97 (best=11.0768)
+Training done. Best loss = 11.0768
+Validation C-index = 0.6207
+
+================================================================================
+Run 52/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.03, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.2259 | KL:9316.2021 | Mono:0.0005 | Smooth:0.0007 | Pinball:8.7717 | Total:12.0347
+
+Early stopping at epoch 85 (best=11.0929)
+Training done. Best loss = 11.0929
+Validation C-index = 0.6018
+
+================================================================================
+Run 53/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.03, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.7041 | KL:9315.9785 | Mono:0.0005 | Smooth:0.0007 | Pinball:8.7181 | Total:12.5075
+
+Early stopping at epoch 59 (best=11.5317)
+Training done. Best loss = 11.5317
+Validation C-index = 0.3993
+
+================================================================================
+Run 54/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.03, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 20}
+Epoch 050 | Cox(focal):9.9294 | KL:9322.4023 | Mono:0.0006 | Smooth:0.0008 | Pinball:8.6795 | Total:11.7296
+
+Early stopping at epoch 86 (best=10.8127)
+Training done. Best loss = 10.8127
+Validation C-index = 0.7174
+
+================================================================================
+Run 55/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.03, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 10}
+Epoch 050 | Cox(focal):11.5356 | KL:9320.7920 | Mono:0.0005 | Smooth:0.0008 | Pinball:8.7727 | Total:12.9063
+
+Early stopping at epoch 55 (best=12.2054)
+Training done. Best loss = 12.2054
+Validation C-index = 0.3866
+
+================================================================================
+Run 56/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.03, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 15}
+Epoch 050 | Cox(focal):9.9784 | KL:9317.3125 | Mono:0.0004 | Smooth:0.0005 | Pinball:8.6416 | Total:11.3422
+
+Early stopping at epoch 95 (best=10.8893)
+Training done. Best loss = 10.8893
+Validation C-index = 0.6225
+
+================================================================================
+Run 57/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.03, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.4009 | KL:9316.6377 | Mono:0.0004 | Smooth:0.0006 | Pinball:8.4689 | Total:11.7560
+
+Early stopping at epoch 99 (best=11.2750)
+Training done. Best loss = 11.2750
+Validation C-index = 0.6604
+
+================================================================================
+Run 58/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.03, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.7295 | KL:9321.7139 | Mono:0.0006 | Smooth:0.0008 | Pinball:8.6194 | Total:12.5236
+
+Early stopping at epoch 97 (best=11.6948)
+Training done. Best loss = 11.6948
+Validation C-index = 0.4629
+
+================================================================================
+Run 59/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.03, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 15}
+Epoch 050 | Cox(focal):9.9067 | KL:9322.5381 | Mono:0.0006 | Smooth:0.0008 | Pinball:8.6803 | Total:11.7070
+
+Early stopping at epoch 98 (best=10.7878)
+Training done. Best loss = 10.7878
+Validation C-index = 0.7337
+
+================================================================================
+Run 60/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.03, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 20}
+Epoch 050 | Cox(focal):11.0943 | KL:9316.9766 | Mono:0.0006 | Smooth:0.0008 | Pinball:8.5990 | Total:12.8860
+
+Early stopping at epoch 92 (best=11.9780)
+Training done. Best loss = 11.9780
+Validation C-index = 0.2622
+
+================================================================================
+Run 61/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.05, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.4519 | KL:9322.1279 | Mono:0.0004 | Smooth:0.0006 | Pinball:8.7788 | Total:11.8231
+
+Early stopping at epoch 62 (best=11.0582)
+Training done. Best loss = 11.0582
+Validation C-index = 0.5994
+
+================================================================================
+Run 62/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.05, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.0335 | KL:9316.5859 | Mono:0.0004 | Smooth:0.0006 | Pinball:8.5392 | Total:11.3921
+
+Early stopping at epoch 99 (best=10.9534)
+Training done. Best loss = 10.9534
+Validation C-index = 0.7173
+
+================================================================================
+Run 63/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.05, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 20}
+Epoch 050 | Cox(focal):9.8422 | KL:9319.0127 | Mono:0.0004 | Smooth:0.0006 | Pinball:8.5299 | Total:11.2006
+
+Early stopping at epoch 98 (best=10.7548)
+Training done. Best loss = 10.7548
+Validation C-index = 0.6826
+
+================================================================================
+Run 64/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.05, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.3926 | KL:9323.9678 | Mono:0.0005 | Smooth:0.0007 | Pinball:8.4969 | Total:12.1747
+
+Early stopping at epoch 53 (best=11.2005)
+Training done. Best loss = 11.2005
+Validation C-index = 0.4546
+
+================================================================================
+Run 65/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.05, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.0833 | KL:9317.6523 | Mono:0.0003 | Smooth:0.0005 | Pinball:8.7605 | Total:11.8911
+
+Early stopping at epoch 91 (best=10.9761)
+Training done. Best loss = 10.9761
+Validation C-index = 0.6773
+
+================================================================================
+Run 66/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.05, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.0040 | KL:9313.8936 | Mono:0.0004 | Smooth:0.0006 | Pinball:8.6619 | Total:11.8016
+
+Early stopping at epoch 99 (best=10.8312)
+Training done. Best loss = 10.8312
+Validation C-index = 0.7523
+
+================================================================================
+Run 67/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.05, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.1960 | KL:9323.3320 | Mono:0.0007 | Smooth:0.0010 | Pinball:8.5860 | Total:11.5577
+
+Early stopping at epoch 82 (best=10.9865)
+Training done. Best loss = 10.9865
+Validation C-index = 0.6007
+
+================================================================================
+Run 68/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.05, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 15}
+Epoch 050 | Cox(focal):9.8371 | KL:9317.0498 | Mono:0.0005 | Smooth:0.0007 | Pinball:8.6709 | Total:11.2024
+
+Early stopping at epoch 99 (best=10.7793)
+Training done. Best loss = 10.7793
+Validation C-index = 0.6688
+
+================================================================================
+Run 69/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.05, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.2556 | KL:9317.7031 | Mono:0.0005 | Smooth:0.0007 | Pinball:8.5939 | Total:11.6171
+
+Early stopping at epoch 74 (best=11.1167)
+Training done. Best loss = 11.1167
+Validation C-index = 0.6814
+
+================================================================================
+Run 70/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.05, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.3234 | KL:9319.4395 | Mono:0.0004 | Smooth:0.0006 | Pinball:8.6561 | Total:12.1210
+
+Early stopping at epoch 96 (best=11.1973)
+Training done. Best loss = 11.1973
+Validation C-index = 0.5351
+
+================================================================================
+Run 71/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.05, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 15}
+Epoch 050 | Cox(focal):9.9072 | KL:9316.2363 | Mono:0.0004 | Smooth:0.0006 | Pinball:8.5853 | Total:11.6974
+
+Early stopping at epoch 97 (best=10.7722)
+Training done. Best loss = 10.7722
+Validation C-index = 0.6553
+
+================================================================================
+Run 72/144
+{'lr': 0.001, 'dropout': 0.1, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.05, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.2587 | KL:9314.9502 | Mono:0.0004 | Smooth:0.0006 | Pinball:8.5317 | Total:12.0434
+
+Early stopping at epoch 80 (best=11.1170)
+Training done. Best loss = 11.1170
+Validation C-index = 0.6170
+
+================================================================================
+Run 73/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.01, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.4296 | KL:9321.7178 | Mono:0.0008 | Smooth:0.0011 | Pinball:8.5470 | Total:10.9502
+
+Early stopping at epoch 85 (best=10.3986)
+Training done. Best loss = 10.3986
+Validation C-index = 0.5508
+
+================================================================================
+Run 74/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.01, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.5190 | KL:9320.6719 | Mono:0.0006 | Smooth:0.0008 | Pinball:8.5184 | Total:11.0382
+
+Early stopping at epoch 96 (best=10.5230)
+Training done. Best loss = 10.5230
+Validation C-index = 0.7021
+
+================================================================================
+Run 75/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.01, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.3669 | KL:9320.7412 | Mono:0.0007 | Smooth:0.0009 | Pinball:8.4800 | Total:10.8841
+
+Early stopping at epoch 94 (best=10.3796)
+Training done. Best loss = 10.3796
+Validation C-index = 0.5609
+
+================================================================================
+Run 76/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.01, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 10}
+Epoch 050 | Cox(focal):11.0073 | KL:9321.2939 | Mono:0.0009 | Smooth:0.0012 | Pinball:8.5195 | Total:11.9525
+
+Early stopping at epoch 72 (best=10.9601)
+Training done. Best loss = 10.9601
+Validation C-index = 0.3472
+
+================================================================================
+Run 77/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.01, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.8057 | KL:9322.6016 | Mono:0.0007 | Smooth:0.0010 | Pinball:8.5896 | Total:11.7579
+
+Early stopping at epoch 60 (best=10.7275)
+Training done. Best loss = 10.7275
+Validation C-index = 0.2462
+
+================================================================================
+Run 78/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.01, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.4495 | KL:9319.9678 | Mono:0.0007 | Smooth:0.0009 | Pinball:8.6831 | Total:11.4110
+
+Early stopping at epoch 94 (best=10.4825)
+Training done. Best loss = 10.4825
+Validation C-index = 0.7394
+
+================================================================================
+Run 79/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.01, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.1761 | KL:9318.6816 | Mono:0.0007 | Smooth:0.0010 | Pinball:8.7309 | Total:10.7058
+
+Early stopping at epoch 98 (best=10.2274)
+Training done. Best loss = 10.2274
+Validation C-index = 0.7490
+
+================================================================================
+Run 80/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.01, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.1401 | KL:9326.1895 | Mono:0.0007 | Smooth:0.0011 | Pinball:8.7279 | Total:10.6698
+
+Early stopping at epoch 97 (best=10.2082)
+Training done. Best loss = 10.2082
+Validation C-index = 0.7326
+
+================================================================================
+Run 81/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.01, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.1442 | KL:9321.5811 | Mono:0.0008 | Smooth:0.0011 | Pinball:8.7921 | Total:10.6770
+
+Early stopping at epoch 93 (best=10.1830)
+Training done. Best loss = 10.1830
+Validation C-index = 0.7608
+
+================================================================================
+Run 82/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.01, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.3772 | KL:9318.2520 | Mono:0.0006 | Smooth:0.0009 | Pinball:8.7231 | Total:11.3427
+
+Early stopping at epoch 89 (best=10.4409)
+Training done. Best loss = 10.4409
+Validation C-index = 0.5726
+
+================================================================================
+Run 83/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.01, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.3840 | KL:9321.0361 | Mono:0.0008 | Smooth:0.0012 | Pinball:8.5134 | Total:11.3286
+
+Early stopping at epoch 98 (best=10.3845)
+Training done. Best loss = 10.3845
+Validation C-index = 0.5836
+
+================================================================================
+Run 84/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.01, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.9896 | KL:9314.0488 | Mono:0.0007 | Smooth:0.0009 | Pinball:8.5175 | Total:11.9345
+
+Early stopping at epoch 54 (best=10.8927)
+Training done. Best loss = 10.8927
+Validation C-index = 0.3176
+
+================================================================================
+Run 85/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.03, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.3906 | KL:9317.8691 | Mono:0.0007 | Smooth:0.0010 | Pinball:8.7878 | Total:10.9232
+
+Early stopping at epoch 58 (best=10.3951)
+Training done. Best loss = 10.3951
+Validation C-index = 0.4745
+
+================================================================================
+Run 86/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.03, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.2451 | KL:9316.9082 | Mono:0.0007 | Smooth:0.0010 | Pinball:8.5471 | Total:10.7657
+
+Early stopping at epoch 92 (best=10.2829)
+Training done. Best loss = 10.2829
+Validation C-index = 0.6051
+
+================================================================================
+Run 87/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.03, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.1974 | KL:9317.7754 | Mono:0.0008 | Smooth:0.0012 | Pinball:8.7515 | Total:10.7282
+
+Early stopping at epoch 90 (best=10.2703)
+Training done. Best loss = 10.2703
+Validation C-index = 0.7644
+
+================================================================================
+Run 88/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.03, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 10}
+Epoch 050 | Cox(focal):11.2745 | KL:9321.8457 | Mono:0.0006 | Smooth:0.0009 | Pinball:8.5769 | Total:12.2254
+
+Early stopping at epoch 99 (best=11.3549)
+Training done. Best loss = 11.3549
+Validation C-index = 0.2895
+
+================================================================================
+Run 89/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.03, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.9927 | KL:9323.9736 | Mono:0.0007 | Smooth:0.0010 | Pinball:8.5444 | Total:11.9404
+
+Early stopping at epoch 98 (best=11.1119)
+Training done. Best loss = 11.1119
+Validation C-index = 0.6597
+
+================================================================================
+Run 90/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.03, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.2261 | KL:9326.4707 | Mono:0.0006 | Smooth:0.0009 | Pinball:8.6576 | Total:11.1851
+
+Early stopping at epoch 99 (best=10.2875)
+Training done. Best loss = 10.2875
+Validation C-index = 0.5965
+
+================================================================================
+Run 91/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.03, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.2939 | KL:9320.0459 | Mono:0.0006 | Smooth:0.0009 | Pinball:8.7692 | Total:10.8256
+
+Early stopping at epoch 96 (best=10.3473)
+Training done. Best loss = 10.3473
+Validation C-index = 0.6392
+
+================================================================================
+Run 92/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.03, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.2338 | KL:9321.1787 | Mono:0.0007 | Smooth:0.0010 | Pinball:8.7614 | Total:10.7652
+
+Early stopping at epoch 74 (best=10.2332)
+Training done. Best loss = 10.2332
+Validation C-index = 0.5641
+
+================================================================================
+Run 93/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.03, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.7005 | KL:9318.2578 | Mono:0.0007 | Smooth:0.0010 | Pinball:8.7538 | Total:11.2314
+
+Early stopping at epoch 95 (best=10.8158)
+Training done. Best loss = 10.8158
+Validation C-index = 0.5355
+
+================================================================================
+Run 94/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.03, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.0352 | KL:9315.1367 | Mono:0.0007 | Smooth:0.0010 | Pinball:8.6028 | Total:10.9887
+
+Early stopping at epoch 95 (best=10.0910)
+Training done. Best loss = 10.0910
+Validation C-index = 0.6819
+
+================================================================================
+Run 95/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.03, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 15}
+Epoch 050 | Cox(focal):11.1618 | KL:9318.7344 | Mono:0.0007 | Smooth:0.0010 | Pinball:8.5106 | Total:12.1061
+
+Early stopping at epoch 97 (best=11.1725)
+Training done. Best loss = 11.1725
+Validation C-index = 0.6404
+
+================================================================================
+Run 96/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.03, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.1514 | KL:9318.7520 | Mono:0.0008 | Smooth:0.0011 | Pinball:8.6479 | Total:11.1094
+
+Early stopping at epoch 92 (best=10.1999)
+Training done. Best loss = 10.1999
+Validation C-index = 0.7474
+
+================================================================================
+Run 97/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.05, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.5283 | KL:9318.5801 | Mono:0.0008 | Smooth:0.0012 | Pinball:8.7699 | Total:11.0600
+
+Early stopping at epoch 69 (best=10.4468)
+Training done. Best loss = 10.4468
+Validation C-index = 0.5783
+
+================================================================================
+Run 98/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.05, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.4213 | KL:9317.6836 | Mono:0.0007 | Smooth:0.0009 | Pinball:8.7949 | Total:10.9543
+
+Early stopping at epoch 98 (best=10.4377)
+Training done. Best loss = 10.4377
+Validation C-index = 0.6454
+
+================================================================================
+Run 99/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.05, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.5892 | KL:9322.0498 | Mono:0.0007 | Smooth:0.0010 | Pinball:8.7492 | Total:11.1199
+
+Early stopping at epoch 99 (best=10.6618)
+Training done. Best loss = 10.6618
+Validation C-index = 0.5340
+
+================================================================================
+Run 100/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.05, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.6480 | KL:9320.4004 | Mono:0.0007 | Smooth:0.0010 | Pinball:8.5033 | Total:11.5916
+
+Early stopping at epoch 99 (best=10.7376)
+Training done. Best loss = 10.7376
+Validation C-index = 0.4608
+
+================================================================================
+Run 101/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.05, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.1697 | KL:9316.7646 | Mono:0.0007 | Smooth:0.0009 | Pinball:8.5094 | Total:11.1138
+
+Early stopping at epoch 98 (best=10.3447)
+Training done. Best loss = 10.3447
+Validation C-index = 0.7288
+
+================================================================================
+Run 102/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.05, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.2600 | KL:9319.2803 | Mono:0.0006 | Smooth:0.0009 | Pinball:8.5209 | Total:11.2053
+
+Early stopping at epoch 91 (best=10.3311)
+Training done. Best loss = 10.3311
+Validation C-index = 0.4740
+
+================================================================================
+Run 103/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.05, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.6058 | KL:9318.7568 | Mono:0.0006 | Smooth:0.0008 | Pinball:8.5540 | Total:11.1267
+
+Early stopping at epoch 99 (best=10.6106)
+Training done. Best loss = 10.6106
+Validation C-index = 0.5276
+
+================================================================================
+Run 104/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.05, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.2118 | KL:9320.0303 | Mono:0.0006 | Smooth:0.0009 | Pinball:8.6699 | Total:10.7385
+
+Early stopping at epoch 90 (best=10.2946)
+Training done. Best loss = 10.2946
+Validation C-index = 0.6308
+
+================================================================================
+Run 105/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.05, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.1232 | KL:9325.0146 | Mono:0.0007 | Smooth:0.0011 | Pinball:8.6019 | Total:10.6466
+
+Early stopping at epoch 94 (best=10.2206)
+Training done. Best loss = 10.2206
+Validation C-index = 0.6738
+
+================================================================================
+Run 106/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.05, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.4284 | KL:9321.5439 | Mono:0.0007 | Smooth:0.0010 | Pinball:8.7859 | Total:11.4003
+
+Early stopping at epoch 90 (best=10.4690)
+Training done. Best loss = 10.4690
+Validation C-index = 0.6227
+
+================================================================================
+Run 107/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.05, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.6048 | KL:9324.4209 | Mono:0.0006 | Smooth:0.0008 | Pinball:8.5849 | Total:11.5566
+
+Early stopping at epoch 96 (best=10.6635)
+Training done. Best loss = 10.6635
+Validation C-index = 0.7081
+
+================================================================================
+Run 108/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 1e-05, 'lambda_mono': 0.05, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.2770 | KL:9318.8857 | Mono:0.0007 | Smooth:0.0010 | Pinball:8.7875 | Total:11.2490
+
+Early stopping at epoch 99 (best=10.2683)
+Training done. Best loss = 10.2683
+Validation C-index = 0.6397
+
+================================================================================
+Run 109/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.01, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.1913 | KL:9319.8125 | Mono:0.0006 | Smooth:0.0008 | Pinball:8.6419 | Total:11.5554
+
+Early stopping at epoch 92 (best=11.0390)
+Training done. Best loss = 11.0390
+Validation C-index = 0.6646
+
+================================================================================
+Run 110/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.01, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.5583 | KL:9317.3613 | Mono:0.0009 | Smooth:0.0012 | Pinball:8.7951 | Total:11.9298
+
+Early stopping at epoch 80 (best=11.4231)
+Training done. Best loss = 11.4231
+Validation C-index = 0.5409
+
+================================================================================
+Run 111/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.01, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.2426 | KL:9324.0176 | Mono:0.0008 | Smooth:0.0011 | Pinball:8.4801 | Total:11.5990
+
+Early stopping at epoch 99 (best=11.1572)
+Training done. Best loss = 11.1572
+Validation C-index = 0.6588
+
+================================================================================
+Run 112/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.01, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.3080 | KL:9321.3037 | Mono:0.0009 | Smooth:0.0012 | Pinball:8.6133 | Total:12.1015
+
+Early stopping at epoch 98 (best=11.2037)
+Training done. Best loss = 11.2037
+Validation C-index = 0.5955
+
+================================================================================
+Run 113/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.01, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.4670 | KL:9321.1475 | Mono:0.0007 | Smooth:0.0009 | Pinball:8.7301 | Total:12.2721
+
+Early stopping at epoch 78 (best=11.2739)
+Training done. Best loss = 11.2739
+Validation C-index = 0.5671
+
+================================================================================
+Run 114/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.01, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.8136 | KL:9322.5596 | Mono:0.0008 | Smooth:0.0012 | Pinball:8.4696 | Total:12.5928
+
+Early stopping at epoch 96 (best=11.6828)
+Training done. Best loss = 11.6828
+Validation C-index = 0.6078
+
+================================================================================
+Run 115/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.01, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.5283 | KL:9321.6367 | Mono:0.0006 | Smooth:0.0008 | Pinball:8.7629 | Total:11.8986
+
+Early stopping at epoch 95 (best=11.4589)
+Training done. Best loss = 11.4589
+Validation C-index = 0.5576
+
+================================================================================
+Run 116/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.01, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.0167 | KL:9320.3037 | Mono:0.0007 | Smooth:0.0010 | Pinball:8.7339 | Total:11.3854
+
+Early stopping at epoch 89 (best=10.9747)
+Training done. Best loss = 10.9747
+Validation C-index = 0.7465
+
+================================================================================
+Run 117/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.01, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 20}
+Epoch 050 | Cox(focal):11.0545 | KL:9315.3115 | Mono:0.0006 | Smooth:0.0009 | Pinball:8.6704 | Total:12.4196
+
+Early stopping at epoch 97 (best=11.9521)
+Training done. Best loss = 11.9521
+Validation C-index = 0.4367
+
+================================================================================
+Run 118/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.01, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.1036 | KL:9317.6582 | Mono:0.0008 | Smooth:0.0012 | Pinball:8.7906 | Total:11.9145
+
+Early stopping at epoch 94 (best=11.0442)
+Training done. Best loss = 11.0442
+Validation C-index = 0.6641
+
+================================================================================
+Run 119/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.01, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.7002 | KL:9323.8516 | Mono:0.0008 | Smooth:0.0012 | Pinball:8.7462 | Total:12.5073
+
+Early stopping at epoch 96 (best=11.6908)
+Training done. Best loss = 11.6908
+Validation C-index = 0.5096
+
+================================================================================
+Run 120/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.01, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.0581 | KL:9321.8896 | Mono:0.0005 | Smooth:0.0007 | Pinball:8.7495 | Total:11.8652
+
+Early stopping at epoch 99 (best=10.9760)
+Training done. Best loss = 10.9760
+Validation C-index = 0.6263
+
+================================================================================
+Run 121/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.03, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.7890 | KL:9318.9678 | Mono:0.0007 | Smooth:0.0010 | Pinball:8.7850 | Total:12.1602
+
+Early stopping at epoch 52 (best=11.4398)
+Training done. Best loss = 11.4398
+Validation C-index = 0.6251
+
+================================================================================
+Run 122/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.03, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 15}
+Epoch 050 | Cox(focal):9.9987 | KL:9319.3477 | Mono:0.0007 | Smooth:0.0010 | Pinball:8.6490 | Total:11.3631
+
+Early stopping at epoch 87 (best=10.9103)
+Training done. Best loss = 10.9103
+Validation C-index = 0.6741
+
+================================================================================
+Run 123/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.03, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.0929 | KL:9319.6504 | Mono:0.0007 | Smooth:0.0010 | Pinball:8.6353 | Total:11.4567
+
+Early stopping at epoch 99 (best=10.9868)
+Training done. Best loss = 10.9868
+Validation C-index = 0.6625
+
+================================================================================
+Run 124/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.03, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 10}
+Epoch 050 | Cox(focal):9.9857 | KL:9318.2129 | Mono:0.0005 | Smooth:0.0008 | Pinball:8.6632 | Total:11.7839
+
+Early stopping at epoch 97 (best=10.9300)
+Training done. Best loss = 10.9300
+Validation C-index = 0.6584
+
+================================================================================
+Run 125/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.03, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.1694 | KL:9317.2109 | Mono:0.0006 | Smooth:0.0008 | Pinball:8.6374 | Total:11.9649
+
+Early stopping at epoch 98 (best=11.0983)
+Training done. Best loss = 11.0983
+Validation C-index = 0.7501
+
+================================================================================
+Run 126/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.03, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.3034 | KL:9319.6240 | Mono:0.0008 | Smooth:0.0011 | Pinball:8.6092 | Total:12.0963
+
+Early stopping at epoch 93 (best=11.2162)
+Training done. Best loss = 11.2162
+Validation C-index = 0.5338
+
+================================================================================
+Run 127/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.03, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 10}
+Epoch 050 | Cox(focal):9.9683 | KL:9317.1631 | Mono:0.0006 | Smooth:0.0008 | Pinball:8.6347 | Total:11.3317
+
+Early stopping at epoch 91 (best=10.8704)
+Training done. Best loss = 10.8704
+Validation C-index = 0.7098
+
+================================================================================
+Run 128/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.03, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.3235 | KL:9323.5439 | Mono:0.0007 | Smooth:0.0010 | Pinball:8.6209 | Total:11.6870
+
+Early stopping at epoch 90 (best=11.1474)
+Training done. Best loss = 11.1474
+Validation C-index = 0.5883
+
+================================================================================
+Run 129/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.03, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.7481 | KL:9322.9238 | Mono:0.0007 | Smooth:0.0010 | Pinball:8.7758 | Total:12.1192
+
+Early stopping at epoch 77 (best=11.6536)
+Training done. Best loss = 11.6536
+Validation C-index = 0.4623
+
+================================================================================
+Run 130/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.03, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.2819 | KL:9315.5645 | Mono:0.0006 | Smooth:0.0008 | Pinball:8.7418 | Total:12.0877
+
+Early stopping at epoch 87 (best=11.1526)
+Training done. Best loss = 11.1526
+Validation C-index = 0.5921
+
+================================================================================
+Run 131/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.03, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.2291 | KL:9318.3252 | Mono:0.0008 | Smooth:0.0011 | Pinball:8.6788 | Total:12.0288
+
+Early stopping at epoch 92 (best=11.1381)
+Training done. Best loss = 11.1381
+Validation C-index = 0.6422
+
+================================================================================
+Run 132/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.03, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.0071 | KL:9318.9111 | Mono:0.0006 | Smooth:0.0009 | Pinball:8.4827 | Total:11.7873
+
+Early stopping at epoch 87 (best=10.9195)
+Training done. Best loss = 10.9195
+Validation C-index = 0.7299
+
+================================================================================
+Run 133/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.05, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.1859 | KL:9314.9551 | Mono:0.0007 | Smooth:0.0010 | Pinball:8.5270 | Total:11.5437
+
+Early stopping at epoch 97 (best=11.1024)
+Training done. Best loss = 11.1024
+Validation C-index = 0.7316
+
+================================================================================
+Run 134/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.05, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.0177 | KL:9323.5625 | Mono:0.0008 | Smooth:0.0011 | Pinball:8.7566 | Total:11.3880
+
+Early stopping at epoch 87 (best=10.9016)
+Training done. Best loss = 10.9016
+Validation C-index = 0.7238
+
+================================================================================
+Run 135/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.05, 'lambda_smooth': 0.01, 'lambda_pinball': 0.05, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.0271 | KL:9322.7607 | Mono:0.0008 | Smooth:0.0011 | Pinball:8.5651 | Total:11.3876
+
+Early stopping at epoch 95 (best=10.9614)
+Training done. Best loss = 10.9614
+Validation C-index = 0.7295
+
+================================================================================
+Run 136/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.05, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.2194 | KL:9326.3584 | Mono:0.0009 | Smooth:0.0012 | Pinball:8.6406 | Total:12.0162
+
+Early stopping at epoch 95 (best=11.1959)
+Training done. Best loss = 11.1959
+Validation C-index = 0.7199
+
+================================================================================
+Run 137/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.05, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.2988 | KL:9320.8281 | Mono:0.0007 | Smooth:0.0010 | Pinball:8.5154 | Total:12.0825
+
+Early stopping at epoch 80 (best=11.1739)
+Training done. Best loss = 11.1739
+Validation C-index = 0.5275
+
+================================================================================
+Run 138/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.05, 'lambda_smooth': 0.01, 'lambda_pinball': 0.1, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.8042 | KL:9316.4238 | Mono:0.0006 | Smooth:0.0009 | Pinball:8.6371 | Total:12.5996
+
+Early stopping at epoch 94 (best=11.6508)
+Training done. Best loss = 11.6508
+Validation C-index = 0.7333
+
+================================================================================
+Run 139/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.05, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 10}
+Epoch 050 | Cox(focal):10.1272 | KL:9318.1924 | Mono:0.0008 | Smooth:0.0011 | Pinball:8.6888 | Total:11.4935
+
+Early stopping at epoch 93 (best=11.0068)
+Training done. Best loss = 11.0068
+Validation C-index = 0.6931
+
+================================================================================
+Run 140/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.05, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.1503 | KL:9322.8975 | Mono:0.0010 | Smooth:0.0014 | Pinball:8.6976 | Total:11.5176
+
+Early stopping at epoch 99 (best=11.0557)
+Training done. Best loss = 11.0557
+Validation C-index = 0.7155
+
+================================================================================
+Run 141/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.05, 'lambda_smooth': 0.02, 'lambda_pinball': 0.05, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.3177 | KL:9320.7393 | Mono:0.0006 | Smooth:0.0009 | Pinball:8.6429 | Total:11.6820
+
+Early stopping at epoch 74 (best=11.0502)
+Training done. Best loss = 11.0502
+Validation C-index = 0.6297
+
+================================================================================
+Run 142/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.05, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 10}
+Epoch 050 | Cox(focal):11.0501 | KL:9325.6270 | Mono:0.0007 | Smooth:0.0010 | Pinball:8.5226 | Total:12.8349
+
+Early stopping at epoch 97 (best=11.9275)
+Training done. Best loss = 11.9275
+Validation C-index = 0.3335
+
+================================================================================
+Run 143/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.05, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 15}
+Epoch 050 | Cox(focal):10.0875 | KL:9321.8428 | Mono:0.0008 | Smooth:0.0012 | Pinball:8.7225 | Total:11.8920
+
+Early stopping at epoch 92 (best=10.9147)
+Training done. Best loss = 10.9147
+Validation C-index = 0.6910
+
+================================================================================
+Run 144/144
+{'lr': 0.001, 'dropout': 0.2, 'prior_std': 1.0, 'kl_weight': 0.0001, 'lambda_mono': 0.05, 'lambda_smooth': 0.02, 'lambda_pinball': 0.1, 'w_fail': 20}
+Epoch 050 | Cox(focal):10.0115 | KL:9317.9678 | Mono:0.0007 | Smooth:0.0010 | Pinball:8.5963 | Total:11.8030
+
+Early stopping at epoch 92 (best=10.8801)
+Training done. Best loss = 10.8801
+Validation C-index = 0.6759
