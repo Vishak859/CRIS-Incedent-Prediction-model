@@ -1,0 +1,21 @@
+Final selected models: BNN COX model and Random forest model
+
+Final files are: BNN_COX_NCR, Random_forest_R5
+
+IR-Rail-Fracture-Data: All India rail fracture data until August 2025
+
+
+RAIL_MASTER_PRYJ_WITH_USFD_INSPDATE
+RAIL_MASTER_WITH_USFD_INSPDATE_FILLED
+RAIL_MATSER_NCR_AGRA_15_10_2025
+
+The above 3 files represent asset data (not failed) for 3 divisions in the North Central Railway (NCR) zone as of August 2025
+
+BNN COX and all models other than random forest use combined asset and failure data till 2025 August for the NCR Zone only
+
+
+Rail_Fracture_all_5-06-2026: All India rail fracture data until June 2026. This is used by the random forest model
+
+Note: Check the BNN COX model once because of a suspect for data leakage. If it's wrong, use the file "BNNCox_NCR_with penalties"
+Make sure the app.py is updated based on whatever further changed made in the model. 
+pkl file for random forest is not included here. Run the code Random_forest_R5 and save it once before opening app.py.
